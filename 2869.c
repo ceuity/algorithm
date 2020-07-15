@@ -10,15 +10,19 @@ int	main(void)
 	scanf("%d %d %d", &u, &d, &h);
 	day = 1;
 	if (u >= h)
-		return (day);
-	if (((h - u) % (u - d)) != 0)
+		;
+	else if (u - d <= 0)
 	{
-		day = ((h - u) / (u - d));
-		day += 2;
+		printf("%d", 0);
+		return (0);
+	}
+	else if (((h - u) % (u - d)) == 0)
+	{
+		day += ((h - u) / (u - d));
 	}
 	else
 	{
-		day = ((h - u) / (u - d));
+		day += ((h - u) / (u - d));
 		day++;
 	}
 	printf("%d", day);
