@@ -7,43 +7,55 @@ int sum_arr(int *arr, int n)
 
 	i = 1;
 	sum = 0;
-	while (i < n)
+	while (i <= n)
 	{
-		sum += *arr;
-		arr++;
+		sum += arr[i];
 		i++;
 	}
 	return (sum);
 }
 
-int	main(void)
+int	get_arr(int k, int n)
 {
-	int	test_case;
-	int arr[15][14];
-	int k;
-	int n;
+	int arr[15][15];
 	int i;
 	int j;
 
-	scanf("%d", &test_case);
-	i = 0;
+	i = 1;
 	j = 1;
-	while (j < 15)
+	while (j <= 14)
 	{
 		arr[0][j] = j;
 		j++;
 	}
-	i++;
-	while (i < 15)
+	while (i <= k)
 	{
 		j = 1;
-		while (j < 15)
+		while (j <= n)
 		{
-			arr[i][j] =
+			arr[i][j] = sum_arr(arr[i - 1], j);
+			j++;
+		}
+		i++;
+	}
+	return (arr[k][n]);
+}
 
-	while (test_case--)
+int main(void)
+{
+	int test_case;
+	int k;
+	int n;
+
+	scanf("%d", &test_case);
+	while (test_case)
 	{
 		scanf("%d\n%d", &k, &n);
-		while (i < 
-
-
+		if (test_case != 1)
+			printf("%d\n", get_arr(k, n));
+		else
+			printf("%d", get_arr(k, n));
+		test_case--;
+	}
+	return (0);
+}
