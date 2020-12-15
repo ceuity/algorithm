@@ -1,2 +1,1 @@
-# Baekjoon Online Judge
-백준 문제 풀이 저장소
+# Algorithm 연습 저장소
