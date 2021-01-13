@@ -25,4 +25,3 @@ def solution(priorities, location):
 
 priorities = [1, 1, 9, 1, 1, 1]
 location = 0
-print(solution(priorities, location))
