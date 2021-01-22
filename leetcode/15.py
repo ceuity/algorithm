@@ -43,6 +43,6 @@ class Solution:
                     right -= 1
         return ans
         
-nums = [1,-1,-1,0]
+nums = [-1,0,1,2,-1,-4]
 ret = Solution()
 print(ret.threeSum(nums))
