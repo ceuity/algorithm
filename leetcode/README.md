@@ -22,3 +22,9 @@
 | [024](./24.py)  |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                        |
 | [328](./328.py) |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                      |
 | [092](./92.py)  |[Reverse Linked List 2](https://leetcode.com/problems/reverse-linked-list-ii/)                   |
+| [020](./20.py)  |[Valid parentheses](https://leetcode.com/problems/valid-parentheses/)                            |
+| [316](./316.py) |[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)              |
+| [739](./739.py) |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                          |
+| [225](./225.py) |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)      |
+| [232](./232.py) |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)      |
+| [622](./622.py) |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                    |
