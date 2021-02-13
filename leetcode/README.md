@@ -28,3 +28,8 @@
 | [225](./225.py) |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)      |
 | [232](./232.py) |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)      |
 | [622](./622.py) |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                    |
+| [641](./641.py) |[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)                    |
+| [023](./23.py)  |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                      |
+| [706](./706.py) |[Design HashMap](https://leetcode.com/problems/design-hashmap/)                                  |
+| [771](./771.py) |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                            |
+| [003](./3.py)   |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
