@@ -33,3 +33,4 @@
 | [706](./706.py) |[Design HashMap](https://leetcode.com/problems/design-hashmap/)                                  |
 | [771](./771.py) |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                            |
 | [003](./3.py)   |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+| [347](./347.py) |[Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/)    |
