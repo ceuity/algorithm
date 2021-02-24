@@ -34,3 +34,7 @@
 | [771](./771.py) |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                            |
 | [003](./3.py)   |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
 | [347](./347.py) |[Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/)    |
+| [200](./200.py) |[Number of Islands](https://leetcode.com/problems/number-of-islands/)                            |
+| [017](./17.py)  |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)    |
+| [046](./46.py)  |[Permutations](https://leetcode.com/problems/permutations/)                                      |
+| [077](./77.py)  |[Combinations](https://leetcode.com/problems/combinations/)                                      |
