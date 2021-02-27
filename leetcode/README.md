@@ -7,34 +7,34 @@
 | [344](./344.py) |[Reverse String](https://leetcode.com/problems/reverse-string/)                                  |
 | [937](./937.py) |[Reorder Log File](https://leetcode.com/problems/reorder-data-in-log-files/)                     |
 | [819](./819.py) |[Most Common Word](https://leetcode.com/problems/most-common-word/)                              |
-| [049](./49.py)  |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                  |
-| [005](./5.py)   |[Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)     |
-| [001](./1.py)   |[Two Sum](https://leetcode.com/problems/two-sum/)                                                | 
-| [042](./42.py)  |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                        | 
-| [015](./15.py)  |[3Sum](https://leetcode.com/problems/3sum/)                                                      |
+| [049](./049.py) |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                  |
+| [005](./005.py) |[Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)     |
+| [001](./001.py) |[Two Sum](https://leetcode.com/problems/two-sum/)                                                | 
+| [042](./042.py) |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                        | 
+| [015](./015.py) |[3Sum](https://leetcode.com/problems/3sum/)                                                      |
 | [561](./561.py) |[Array Partition I](https://leetcode.com/problems/array-partition-i/)                            |
 | [238](./238.py) |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)      |
 | [121](./121.py) |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|
 | [234](./234.py) |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                  |
-| [021](./21.py)  |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                  |
+| [021](./021.py) |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                  |
 | [206](./206.py) |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                        |
-| [002](./2.py)   |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                |
-| [024](./24.py)  |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                        |
+| [002](./002.py) |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                |
+| [024](./024.py) |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                        |
 | [328](./328.py) |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                      |
-| [092](./92.py)  |[Reverse Linked List 2](https://leetcode.com/problems/reverse-linked-list-ii/)                   |
-| [020](./20.py)  |[Valid parentheses](https://leetcode.com/problems/valid-parentheses/)                            |
+| [092](./092.py) |[Reverse Linked List 2](https://leetcode.com/problems/reverse-linked-list-ii/)                   |
+| [020](./020.py) |[Valid parentheses](https://leetcode.com/problems/valid-parentheses/)                            |
 | [316](./316.py) |[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)              |
 | [739](./739.py) |[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                          |
 | [225](./225.py) |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)      |
 | [232](./232.py) |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)      |
 | [622](./622.py) |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)                    |
 | [641](./641.py) |[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)                    |
-| [023](./23.py)  |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                      |
+| [023](./023.py) |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                      |
 | [706](./706.py) |[Design HashMap](https://leetcode.com/problems/design-hashmap/)                                  |
 | [771](./771.py) |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                            |
-| [003](./3.py)   |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
+| [003](./003.py) |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
 | [347](./347.py) |[Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/)    |
 | [200](./200.py) |[Number of Islands](https://leetcode.com/problems/number-of-islands/)                            |
-| [017](./17.py)  |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)    |
-| [046](./46.py)  |[Permutations](https://leetcode.com/problems/permutations/)                                      |
-| [077](./77.py)  |[Combinations](https://leetcode.com/problems/combinations/)                                      |
+| [017](./017.py) |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)    |
+| [046](./046.py) |[Permutations](https://leetcode.com/problems/permutations/)                                      |
+| [077](./077.py) |[Combinations](https://leetcode.com/problems/combinations/)                                      |
