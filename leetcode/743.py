@@ -6,6 +6,7 @@ Created on Sun Feb 28 01:15:34 2021
 
 from typing import List
 from collections import defaultdict
+import heapq
 
 """
 class Solution:
