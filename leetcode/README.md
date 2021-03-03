@@ -35,6 +35,12 @@
 | [003](./003.py) |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|
 | [347](./347.py) |[Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/submissions/)    |
 | [200](./200.py) |[Number of Islands](https://leetcode.com/problems/number-of-islands/)                            |
-| [017](./017.py) |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)    |
+| [017](./017.py) |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|
 | [046](./046.py) |[Permutations](https://leetcode.com/problems/permutations/)                                      |
 | [077](./077.py) |[Combinations](https://leetcode.com/problems/combinations/)                                      |
+| [039](./039.py) |[Combination Sum](https://leetcode.com/problems/combination-sum/)                                |
+| [078](./078.py) |[Subsets](https://leetcode.com/problems/subsets/)                                                |
+| [332](./332.py) |[Reconstruct Itinerary](https://leetcode.com/problems/course-schedule/)                          |
+| [207](./207.py) |[Course Schedule](https://leetcode.com/problems/combinations/)                                   |
+| [743](./743.py) |[Network Delay Time](https://leetcode.com/problems/network-delay-time/)                          |
+| [787](./787.py) |[Cheapest Flights Within K stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|
