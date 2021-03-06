@@ -28,7 +28,7 @@ if __name__ == '__main__':
         if curr == target:
             break
         count += 1
-   print(count)
+    print(count)
    
 """
 처음에 visited = [] 로 선언하고 방문할 때 마다 visited에 있는지 확인 후 추가해줬더니 시간초과가 났다.
