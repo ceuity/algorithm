@@ -12,3 +12,7 @@ if __name__=="__main__":
             if sequence[i] > sequence[j]:
                 dp_b[i] = max(dp_b[i], dp_b[j] + 1)
     print(max([x + y for x, y in zip(dp_f, dp_b)]) - 1)
+
+"""
+LIS를 양쪽에서 모두 구한 후 i번째 에서 두 개의 합 - 1 값이 가장 큰 값을 정답으로 했다.
+"""
