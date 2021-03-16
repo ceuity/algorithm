@@ -44,3 +44,9 @@
 | [207](./207.py) |[Course Schedule](https://leetcode.com/problems/combinations/)                                   |
 | [743](./743.py) |[Network Delay Time](https://leetcode.com/problems/network-delay-time/)                          |
 | [787](./787.py) |[Cheapest Flights Within K stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|
+| [104](./104.py) |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)      |
+| [543](./543.py) |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                |
+| [687](./687.py) |[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)                    |
+| [226](./226.py) |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                          |
+| [617](./617.py) |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                  |
+| [297](./297.py) |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|
