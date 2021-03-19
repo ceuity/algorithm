@@ -38,3 +38,8 @@ if __name__=="__main__":
 	
 	for i in range(1, n + 1):
 		Dijkstra(i)
+
+"""
+플로이드 와샬은 O(V^3)의 시간복잡도를 가진다고 하지만 Dijkstra를 V번 만큼 하면
+O(V^2logE)의 시간복잡도를 가진다고 생각하는데 맞는지 모르겠다.
+"""
