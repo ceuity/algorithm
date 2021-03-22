@@ -50,3 +50,8 @@
 | [226](./226.py) |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                          |
 | [617](./617.py) |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                  |
 | [297](./297.py) |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|
+| [110](./110.py) |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|
+| [310](./310.py) |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|
+| [108](./108.py) |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|
+| [1038](./1038.py) |[Binary Search Tree to Greater sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|
+| [938](./938.py) |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|
