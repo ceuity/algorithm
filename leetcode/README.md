@@ -55,3 +55,9 @@
 | [108](./108.py) |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|
 | [1038](./1038.py) |[Binary Search Tree to Greater sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|
 | [938](./938.py) |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|
+| [783](./783.py) |[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|
+| [105](./105.py) |[Construce Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|
+| [215](./215.py) |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
+| [208](./208.py) |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|
+| [336](./336.py) |[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|
+
