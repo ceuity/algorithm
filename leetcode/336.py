@@ -99,6 +99,11 @@ class Solution:
                     index.add((rev_dict[suffix], i))
         return [list(i) for i in index]
 
+if __name__ == '__main__':
+    words = ["abcd","dcba","lls","s","sssll"]
+    ret = Solution()
+    ret.palindromePairs(words)
+
 
 """
 Trie 구조로 만들어서 푸는 방법이 정석적인 방법인 것 같지만 속도는 더 느렸다.
