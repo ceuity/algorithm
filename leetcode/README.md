@@ -60,4 +60,13 @@
 | [215](./215.py) |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|
 | [208](./208.py) |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|
 | [336](./336.py) |[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|
+| [148](./148.py) |[Sort List](https://leetcode.com/problems/sort-list/)|
+| [056](./056.py) |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|
+| [147](./147.py) |[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|
+| [179](./179.py) |[Largest Number](https://leetcode.com/problems/largest-number/)|
+| [242](./242.py) |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|
+| [075](./075.py) |[Sort Colors](https://leetcode.com/problems/sort-colors/)|
+| [973](./973.py) |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|
+| [704](./704.py) |[Binary Search](https://leetcode.com/problems/binary-search/)|
+| [033](./033.py) |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 
