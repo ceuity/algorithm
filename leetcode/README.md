@@ -69,4 +69,9 @@
 | [973](./973.py) |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|
 | [704](./704.py) |[Binary Search](https://leetcode.com/problems/binary-search/)|
 | [033](./033.py) |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
+| [349](./349.py) |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|
+| [167](./167.py) |[Two Sum2 - Input array is sorted](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
+| [240](./240.py) |[Search a 2D Matrix2](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
+| [136](./136.py) |[Single Number](https://leetcode.com/problems/single-number/)|
+| [461](./461.py) |[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|
 
