@@ -74,4 +74,9 @@
 | [240](./240.py) |[Search a 2D Matrix2](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
 | [136](./136.py) |[Single Number](https://leetcode.com/problems/single-number/)|
 | [461](./461.py) |[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|
+| [371](./371.py) |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|
+| [393](./393.py) |[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|
+| [191](./191.py) |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|
+| [239](./239.py) |[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|
+| [076](./076.py) |[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|
 
