@@ -67,3 +67,8 @@ if __name__ == "__main__":
     k = 1
     ret = Solution()
     print(ret.characterReplacement(s, k))
+
+"""
+처음 풀었던 방법은 O(n^2)에 근접한 풀이여서 그런지 시간초과가 났다.
+Counter를 이용하거나 hashmap을 이용한 방법이 빠르고 직관적인 것 같다.
+"""
